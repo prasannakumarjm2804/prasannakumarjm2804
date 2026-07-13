@@ -31,15 +31,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=prasannakumarjm2804&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/prasannakumarjm2804)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-prasannakumarjm2804-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prasannakumarjm2804@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannakumarjm2804)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
+
 
 </div>
 

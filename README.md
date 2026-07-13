@@ -1,9 +1,4 @@
 <!-- Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Profile banner" src="dark.svg">
-</picture>
 <div align="center"> 
 
 <svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" width="100%">
@@ -49,49 +44,11 @@
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-```ts
-const prasanna = {
-  name       : "Prasanna Kumar J M",
-  location   : "Erode, Tamil Nadu 🇮🇳",
-  education  : "MSc Software Systems",
-  college    : "Kongu Engineering College (2027)",
-  dob        : "28-04-2005",
-
-  currentFocus : [
-    "AI-Powered Full Stack Apps 🚀",
-    "SSVEP Brain-Computer Interface 🧠",
-    "Cloud Architecture & Gen AI ☁️",
-  ],
-
-  strengths    : [
-    "Rapid Prototyping ⚡",  // ship fast, iterate faster
-    "Problem Solving 🧩",
-    "Team Collaboration 🤝",
-    "UI/UX Design Thinking 🎨",
-  ],
-
-  openTo   : "Internships — Remote or On-Site 🌍",
-  funFact  : "I talk to EEG signals. They talk back. 🧬",
-};
-```
-
-</td>
-<td align="center" valign="middle" width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Profile banner" src="dark.svg">
+</picture>
 
 ## 🛠️ Tech Stack
 

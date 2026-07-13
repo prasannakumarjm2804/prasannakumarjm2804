@@ -28,8 +28,7 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&lines=Brain-Computer+Interface+Researcher+%F0%9F%A7%A0;MERN+Stack+Full+Stack+Developer+%F0%9F%9A%80;Oracle+Certified+Gen+AI+Professional+%F0%9F%A4%96;Cloud+%26+Deep+Learning+Explorer;Hackathon+Winner+%7C+Award+Champion+%F0%9F%8F%86;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
-<br/><br/>
-[![Profile Views](https://komarev.com/ghpvc/?username=prasannakumarjm2804&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/prasannakumarjm2804)
+<br/>[![Profile Views](https://komarev.com/ghpvc/?username=prasannakumarjm2804&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/prasannakumarjm2804)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-prasannakumarjm2804-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prasannakumarjm2804@gmail.com)
 &nbsp;
@@ -37,7 +36,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannakumarjm2804)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)<br/>
 </div>
 
 ---

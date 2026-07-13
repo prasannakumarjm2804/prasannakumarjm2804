@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
   <img alt="Profile banner" src="dark.svg">
 </picture>
-<div align="center">
+<div align="center"> 
 
 <svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>

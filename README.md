@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prasanna%20Kumar%20J%20M&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20BCI%20Researcher%20%7C%20Oracle%20Certified%20Cloud%20Engineer&descAlignY=60&descSize=15&descColor=c8d3f5" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%A7%A0+Brain-Computer+Interface+Researcher;%F0%9F%9A%80+MERN+Stack+Full+Stack+Developer;%F0%9F%A4%96+Oracle+Certified+Gen+AI+Professional;%E2%98%81%EF%B8%8F+Cloud+%26+Deep+Learning+Explorer;%F0%9F%8F%86+Hackathon+Winner+%7C+Award+Champion;%E2%9A%A1+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%A7%A0+Brain-Computer+Interface+Researcher;%F0%9F%9A%80+MERN+Stack+Full+Stack+Developer;%F0%9F%A4%96+Oracle+Certified+Gen+AI+Professional;%E2%98%81%EF%B8%8F+Cloud+%26+Deep+Learning+Explorer;%E2%9A%A1+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
 
 <br/>
 

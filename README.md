@@ -52,7 +52,7 @@
 ```yaml
 name        : Prasanna Kumar J M
 location    : Erode, Tamil Nadu, India
-education   : B.E. Computer Science
+education   : M.Sc. Software Systems
 role        : Full Stack Developer & AI Researcher
 focus       : MERN Stack | BCI | Cloud | Gen AI
 open_to     : Internships | Collaboration | Research
@@ -349,8 +349,6 @@ Location-based fuel ordering platform featuring **real-time GPS tracking**, inte
          │   Presenter at Hackwave 3.0 (n8n Workflow Automation)
          │
 2026 ──► Researching SSVEP BCI with Deep Learning  ◄── [ NOW ]
-         │
-????  ──► Publishing research · Landing impact internship · Building for Bharat 🚀
 ```
 
 ---
